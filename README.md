@@ -1,14 +1,10 @@
 # Apex Quiz Auto-Answer
 
-Highlights Correct Answers in Apex Learning Quiz Menus. Includes Image Support, AI Logic to get the right answer, and is 100% Undetected
+Highlights Correct Answers in Apex Learning Quiz Menus. Includes Image Support, AI Logic, Auto-Complete, and Keybind Controls
 
 Please star the repository and support my other projects as I work hard to make these tools!!!
 
 Made with ❤ By [Payson](https://github.com/paysonism)
-
-## Coming Soon
-
-I plan on adding more features soon. Such as GoGuardian screenproof (teachers cant see the cheat on your screen), a kill/toggle switch, and automatic study guide fillouts.
 
 ## Limitations
 
